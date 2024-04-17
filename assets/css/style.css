@@ -3,6 +3,11 @@
   padding: 0;
   border: 0;
 }
-body{background-color: #000000;}
+body {
+  background-color: #000000;
+  font-family: "Raleway", sans-serif;
+}
 
-.fa-plane{color: #ffffff;}
+.fa-plane {
+  color: #ffffff;
+}
